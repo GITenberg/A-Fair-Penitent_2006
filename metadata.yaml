@@ -1,0 +1,32 @@
+_repo: A-Fair-Penitent_2006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Delve into the seamy underside of eighteenth-century Paris in this gripping
+  short story from beloved British author Wilkie Collins. The fair penitent of the
+  title is a renowned stage actress who decides to give up her life of cultural refinement
+  and cushy creature comforts to seek out a more spiritually fulfilling path. Will
+  she find a way to make things right and repent?
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conversion -- Fiction'
+- !lcsh 'Nuns -- Fiction'
+- !lcc 'PR'
+- !lcsh 'English fiction'
+- GITenberg
+title: A Fair Penitent
+url: http://www.gutenberg.org/ebooks/2006
