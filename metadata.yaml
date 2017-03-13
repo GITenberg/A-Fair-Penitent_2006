@@ -1,5 +1,8 @@
 _repo: A-Fair-Penitent_2006
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -14,6 +17,8 @@ description: Delve into the seamy underside of eighteenth-century Paris in this 
   title is a renowned stage actress who decides to give up her life of cultural refinement
   and cushy creature comforts to seek out a more spiritually fulfilling path. Will
   she find a way to make things right and repent?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2006#A-Fair-Penitent
 gutenberg_issued: '1999-12-01'
 gutenberg_type: Text
 identifiers:
